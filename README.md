@@ -19,8 +19,6 @@
 <img src="http://mazandi.herokuapp.com/api?handle={ApexNAM}&theme=warm"/>
 
 ## 업로드 프로젝트 목록
-<a href="https://github.com/ApexNAM/ReconAI_Unity3D"> ReconAI_Unity3D (2020) </a> 
-- Unity NavMesh 무작위 위치 이동 소스코드
 
 ### C#을 이용한 객체지향 프로그래밍 스터디 프로젝트
 <a href="https://github.com/ApexNAM/SeoulCybermenUnivs_OOP_Study_T_From_JaeminPark_Monogame"> 객체지향 스터디 프로젝트 1편 </a>
@@ -35,10 +33,21 @@
 <a href="https://github.com/ApexNAM/SeoulCybermenUnivs_OOP_Study_Yugoslavia"> 객체지향 스터디 프로젝트 4편 </a>
 - 유고슬라비아 클래스의 객체지향 프로그래밍
 
+### 기타 프로젝트
+
+<a href="https://github.com/ApexNAM/ReconAI_Unity3D"> ReconAI_Unity3D (2020) </a> 
+- Unity NavMesh 무작위 위치 이동 소스코드
+
 <a href="https://github.com/ApexNAM/PythonCommandGame"> 파이썬을 이용한 명령어 게임 </a>
 - 주피터 노트북 사용
 
 <a href="https://github.com/ApexNAM/SangusComputerEntertainment_StudyCode_"> C++를 이용한 가짜 컴퓨터 연습 프로젝트 </a>
+- C++ 응용
 
 <a href="https://github.com/ApexNAM/Programing_Arabia"> C++를 아랍어로 변형시킨 장난작 </a>
+- 제목 그대로
+
+## 진행중인 메인 프로젝트
+<a href = "https://github.com/ApexNAM/DaftEngine"> Daft Engine 다프트 엔진 </a>
+- 개인용 자체 게임엔진 또는 게임 프레임워크 (개발중)
 
