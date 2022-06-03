@@ -37,3 +37,8 @@
 
 <a href="https://github.com/ApexNAM/PythonCommandGame"> 파이썬을 이용한 명령어 게임 </a>
 - 주피터 노트북 사용
+
+<a href="https://github.com/ApexNAM/SangusComputerEntertainment_StudyCode_"> C++를 이용한 가짜 컴퓨터 연습 프로젝트 </a>
+
+<a href="https://github.com/ApexNAM/Programing_Arabia"> C++를 아랍어로 변형시킨 장난작 </a>
+
