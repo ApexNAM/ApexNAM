@@ -34,3 +34,6 @@
 
 <a href="https://github.com/ApexNAM/SeoulCybermenUnivs_OOP_Study_Yugoslavia"> 객체지향 스터디 프로젝트 4편 </a>
 - 유고슬라비아 클래스의 객체지향 프로그래밍
+
+<a href="https://github.com/ApexNAM/PythonCommandGame"> 파이썬을 이용한 명령어 게임 </a>
+- 주피터 노트북 사용
