@@ -6,6 +6,10 @@
 이 깃허브 페이지는 주로 개인 프로젝트와 스터디 프로젝트 파일을 위주로 업로드합니다.
 주로 게임개발 관련 프로젝트를 업로드하고 있습니다.
 
+### Education 목록
+- <a href="http://iis.icehs.kr/main.do"> 인천정보과학고등학교 (2019 ~ 2022, 전산과 (현 IT소프트웨어과)) </a>
+- <a href="https://www.ck.ac.kr/"> 청강문화산업대학교 (2022 - 현재, 게임전공) </a>
+
 ### 아래는 프로그래밍 언어 위주 목록
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ApexNAM)](https://github.com/ApexNAM/github-readme-stats)
