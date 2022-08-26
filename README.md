@@ -51,9 +51,9 @@
 <a href="https://github.com/ApexNAM/Programing_Arabia"> C++를 아랍어로 변형시킨 장난작 </a>
 - 제목 그대로
 
-## 진행중인 메인 프로젝트
+## 중단된 프로젝트
 <a href = "https://github.com/ApexNAM/DaftEngine"> Daft Engine 다프트 엔진 </a>
-- 개인용 자체 게임엔진 또는 게임 프레임워크, OpenGL 기반 (개발중, 2순위)
+- 개인용 자체 게임엔진 또는 게임 프레임워크, OpenGL 기반 
 
 <a href = "https://github.com/ApexNAM/AmigaRL"> AmigaRL 아미가RL </a>
-- 개인용 자체 게임엔진 또는 게임 프레임워크, Raylib 기반 (개발중, 1순위)
+- 개인용 자체 게임엔진 또는 게임 프레임워크, Raylib 기반
