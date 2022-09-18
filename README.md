@@ -51,9 +51,13 @@
 <a href="https://github.com/ApexNAM/Programing_Arabia"> C++를 아랍어로 변형시킨 장난작 </a>
 - 제목 그대로
 
-## 중단된 프로젝트
+## 중단되거나 보류된 프로젝트
 <a href = "https://github.com/ApexNAM/DaftEngine"> Daft Engine 다프트 엔진 </a>
 - 개인용 자체 게임엔진 또는 게임 프레임워크, OpenGL 기반 
 
 <a href = "https://github.com/ApexNAM/AmigaRL"> AmigaRL 아미가RL </a>
 - 개인용 자체 게임엔진 또는 게임 프레임워크, Raylib 기반
+
+## 개발중이거나 시도중인 프로젝트
+<a href = "https://github.com/ApexNAM/Torizon"> Torizon 터라이전 (토리즌) </a>
+- 1인칭 (FPS) 버전의 타자연습 산성비 게임 프로젝트, TypeScript Three.js 기반
