@@ -8,11 +8,11 @@ I mainly upload projects related to game development. I'm not familiar with gith
 
 ### 학력 목록 (KR)
 - <a href="http://iis.icehs.kr/main.do"> 인천정보과학고등학교 IT소프트웨어과 (2019 ~ 2022, 졸업) </a>
-- <a href="https://www.ck.ac.kr/"> 청강문화산업대학교 게임전공 (2022 - 2023 (휴학예정), 재학중) </a>
+- <a href="https://www.ck.ac.kr/"> 청강문화산업대학교 게임전공 (2022 - , 재학중) </a>
 
 ### academic background (EN)
 - <a href="http://iis.icehs.kr/main.do"> Incheon Information Science High School IT Software Department (2019 ~ 2022, graduated) </a>
-- <a href="https://www.ck.ac.kr/"> Chungkang Cultural Industry University Game School (2022 - 2023, Scheduled leave of absence, enrolled.) </a> 
+- <a href="https://www.ck.ac.kr/"> Chungkang Cultural Industry University Game School (2022 - , enrolled.) </a> 
 
 ### 사용 프로그래밍 언어 programming language used
 1. C# (Used to game development. Frequently used or main programming language.)
