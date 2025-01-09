@@ -7,4 +7,4 @@
 - <a href="http://iis.icehs.kr/main.do"> 인천정보과학고등학교 IT소프트웨어과 (2019 ~ 2022, 졸업) </a>
 - <a href="https://www.ck.ac.kr/"> 청강문화산업대학교 게임콘텐츠스쿨 게임전공 (2022 - 2023, 휴학) </a>
 
-SkagoGames 2018 - 2024. made in Skago.
+SkagoGames 2018 - 2025. made in Skago.
